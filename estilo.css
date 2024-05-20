@@ -1,0 +1,56 @@
+p, h1, h2, h3, a{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 20%;
+}
+.inicio{
+    text-align: center;
+}
+.top{
+    padding-left: 5px ;
+    padding-right: 5px ;
+    font-size: 20px;
+    color: black;
+}
+.sobre{
+    margin-top: 30px;
+    border-top: 3px solid #f7A156;
+    text-align: center;
+    width: 55%;
+    margin-left: 23%;
+}
+.data{
+    color: #f7A156;
+}
+img{
+    text-align: center;
+}
+.produtos{
+    width: 50%;
+}
+.bolos_e_paes{
+    margin-top: 25px;
+    background-color: #f7A156;
+    text-align: center;
+    color: white;
+    margin-left: 22%;
+    margin-right: 22%;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.pao{
+    width: 70%;
+}
+.sobre-pao{
+    font-size: 20px;
+}
+.sobre_bolos{
+    font-size: 20px;
+}
+.img_bolo{
+    width: 70%;
+}
+.Contato{
+    text-align: center;
+}
